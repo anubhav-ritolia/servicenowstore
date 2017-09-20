@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="radio_button" label="Radio Button" language="en" table="x_24461_servicenow_incident_demo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>radio_button</element>
+            <help/>
+            <hint/>
+            <label>Radio Button</label>
+            <language>en</language>
+            <name>x_24461_servicenow_incident_demo</name>
+            <plural>Radio Buttons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-20 13:07:45</sys_created_on>
+            <sys_id>b9c1a0064f1d0300da41fa218110c738</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Radio Button</sys_name>
+            <sys_package display_value="ServiceNow Store Link" source="x_24461_servicenow">34f2baa54f110300da41fa218110c77f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNow Store Link">34f2baa54f110300da41fa218110c77f</sys_scope>
+            <sys_update_name>sys_documentation_x_24461_servicenow_incident_demo_radio_button_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-20 13:07:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

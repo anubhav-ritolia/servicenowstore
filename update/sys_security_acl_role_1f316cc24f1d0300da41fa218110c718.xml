@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-20 13:05:23</sys_created_on>
+        <sys_id>1f316cc24f1d0300da41fa218110c718</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_24461_servicenow_incident_demo.x_24461_servicenow.incident_demo_user</sys_name>
+        <sys_package display_value="ServiceNow Store Link" source="x_24461_servicenow">34f2baa54f110300da41fa218110c77f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Store Link">34f2baa54f110300da41fa218110c77f</sys_scope>
+        <sys_security_acl display_value="x_24461_servicenow_incident_demo">df316cc24f1d0300da41fa218110c714</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1f316cc24f1d0300da41fa218110c718</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-20 13:05:23</sys_updated_on>
+        <sys_user_role display_value="x_24461_servicenow.incident_demo_user" name="x_24461_servicenow.incident_demo_user">47312c4e4fd90300da41fa218110c78f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
